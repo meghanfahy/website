@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.da38cdb5.chunk.css",
+    "main.js": "/website/static/js/main.ff8a2ac0.chunk.js",
+    "main.js.map": "/website/static/js/main.ff8a2ac0.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.4e44dc7d.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.4e44dc7d.js.map",
+    "static/css/2.150d169a.chunk.css": "/website/static/css/2.150d169a.chunk.css",
+    "static/js/2.0b04547a.chunk.js": "/website/static/js/2.0b04547a.chunk.js",
+    "static/js/2.0b04547a.chunk.js.map": "/website/static/js/2.0b04547a.chunk.js.map",
+    "static/js/3.c90cc03e.chunk.js": "/website/static/js/3.c90cc03e.chunk.js",
+    "static/js/3.c90cc03e.chunk.js.map": "/website/static/js/3.c90cc03e.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/website/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.da38cdb5.chunk.css.map": "/website/static/css/main.da38cdb5.chunk.css.map",
+    "static/js/2.0b04547a.chunk.js.LICENSE.txt": "/website/static/js/2.0b04547a.chunk.js.LICENSE.txt",
+    "static/media/MeghanFahy-Resume-2021.b48e84f3.pdf": "/website/static/media/MeghanFahy-Resume-2021.b48e84f3.pdf",
+    "static/media/better-hats.cb4d2748.jpg": "/website/static/media/better-hats.cb4d2748.jpg",
+    "static/media/boston-newsletters.43ae3c53.jpg": "/website/static/media/boston-newsletters.43ae3c53.jpg",
+    "static/media/cath-reporting-tool.d9c55efa.jpg": "/website/static/media/cath-reporting-tool.d9c55efa.jpg",
+    "static/media/coffee-crawler.6f05966e.jpg": "/website/static/media/coffee-crawler.6f05966e.jpg",
+    "static/media/filmpages.9fea57da.jpg": "/website/static/media/filmpages.9fea57da.jpg",
+    "static/media/logo.6ce24c58.svg": "/website/static/media/logo.6ce24c58.svg",
+    "static/media/meghan.5751f578.jpg": "/website/static/media/meghan.5751f578.jpg",
+    "static/media/playlist-makers.96bec639.jpg": "/website/static/media/playlist-makers.96bec639.jpg",
+    "static/media/second-opinion.d705be82.jpg": "/website/static/media/second-opinion.d705be82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e44dc7d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.0b04547a.chunk.js",
+    "static/css/main.da38cdb5.chunk.css",
+    "static/js/main.ff8a2ac0.chunk.js"
+  ]
+}
